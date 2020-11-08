@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/MyGame/Scenes/HelloGit.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/MyGame/Scenes/MainScene.unity
+    guid: 24aeeef615b47804fa11102f2ff7e817
+  - enabled: 1
+    path: Assets/MyGame/Scenes/EndScene.unity
+    guid: 9b127d7090fc94c4d8e2faece92403ad
   m_configObjects: {}
